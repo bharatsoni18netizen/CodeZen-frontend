@@ -170,7 +170,7 @@ int main() {
     <div className="app-container">
       <header className="header">
         <div>
-          <h1>&lt;DEV_ENGINE.AI /&gt;</h1>
+          <h1>&lt;CodeZen /&gt;</h1>
           <p>Smart Code Optimizer & Bug Resolver</p>
         </div>
         <div className="badge-group">
